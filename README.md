@@ -63,6 +63,10 @@ plt.show()
 
 ## Output:
 
+Mean Absolute Error: 0.8189655172413826
+Mean Squared Error: 0.6707045184304452
+Root Mean Squared Error: 0.8189655172413826
+
 ![download](https://github.com/user-attachments/assets/f15e45f4-8678-4082-baef-759fa89de20c)
 
 ## Result:
